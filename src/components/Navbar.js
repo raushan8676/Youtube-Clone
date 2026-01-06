@@ -15,7 +15,7 @@ export default function Navbar() {
         </div>
 
         <div className="flex gap-2 justify-center items-center">
-          <BsYoutube className="text-2xl text-red-500" />
+          <BsYoutube className="text-5xl text-red-600 " />
           <span className="text-2xl font-bold">YouTube</span>
         </div>
       </div>
